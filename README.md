@@ -60,8 +60,11 @@ I developed this project independently on my own. My role included:
 
 ## Screenshots of Different Web Pages in the Project
 
-![PERCENTAGE OF MALES vs FEMALES](perc_males_females.png)
+**PERCENTAGE OF MALES vs FEMALES**
+![PERCENTAGE OF MALES vs FEMALES](screenshots\perc_males_females.png)
 
-![Percentage of Passed VS Failed Students](perc_pass_fail_sts.png)
+**Percentage of Passed VS Failed Students**
+![Percentage of Passed VS Failed Students](screenshots\perc_pass_fail_sts.png)
 
-![Average Marks based on Gender](avg_marks_gender.png)
+**Average Marks based on Gender**
+![Average Marks based on Gender](screenshots\avg_marks_gender.png)
