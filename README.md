@@ -59,3 +59,9 @@ I developed this project independently on my own. My role included:
 - Testing the notebook and verifying the output
 
 ## Screenshots of Different Web Pages in the Project
+
+![PERCENTAGE OF MALES vs FEMALES](perc_males_females.png)
+
+![Percentage of Passed VS Failed Students](perc_pass_fail_sts.png)
+
+![Average Marks based on Gender](avg_marks_gender.png)
